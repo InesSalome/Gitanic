@@ -2137,8 +2137,10 @@ Parce que je vous ai arrêtée à la frontière.
 <speaker>CLÉMENTINE.</speaker>
 Jamais, monsieur, et cependant… avouez qu’en un cas pareil, l’épouse pourrait plaider les circonstances atténuantes.
 
-<speaker>COUPLETS.</speaker>
-I
+<lg>
+<head>COUPLETS.</head>
+   <lg>
+<head>I</head>
 On prend un ange d’innocence,
 Tout comme j’étais à seize ans ;
 Un jour, on la met en présence
@@ -2149,7 +2151,9 @@ Mais la raison d’État empêche,
 Qu’on écoute ce qu’elle dit.
 Bref, elle épouse un roi Bobèche !…
 Voilà comment cela finit !
-II
+   </lg>
+   <lg>
+<head>II</head>
 Un seigneur de haute naissance,
 Un beau soir, paraît à la cour,
 Il ose, voyez l’insolence,
@@ -2160,7 +2164,9 @@ Mais, le lendemain, moins revêche,
 À l’imprudent elle sourit…
 Et tu vois d’ici, roi Bobèche,
 Tu vois comment cela finit !
-
+   </lg>
+</lg>
+   
 <speaker>BOBÈCHE.</speaker>
 Vous avez une manie désagréable, c’est de toujours me parler de ce dont les femmes évitent généralement de parler à leurs maris…
 
@@ -2188,13 +2194,12 @@ Elle brise des vases précieux.
 <speaker>BOBÈCHE,</speaker><stage>furieux.</stage>
 Elle brise mes biscuits !… par exemple !…
 
-Il veut s’élancer, Clémentine l’arrête.
-
+<stage>Il veut s’élancer, Clémentine l’arrête.</stage>
 
 <speaker>CLÉMENTINE.</speaker>
 Oh ! soyez tranquille, vous ne tarderez pas à la voir paraître… quand elle aura cassé les potiches qui sont par là, elle viendra casser celles qui sont ici.
 
-Bruit de porcelaine brisée au dehors ; la princesse Hermia entre précipitamment par la gauche.
+<stage>Bruit de porcelaine brisée au dehors ; la princesse Hermia entre précipitamment par la gauche.</stage>
 
 
 </div>
@@ -2226,7 +2231,7 @@ Mia-mia !
 <speaker>LA PRINCESSE.</speaker>
 C’est ce que nous verrons !…
 
-Elle veut saisir le globe terrestre.
+<stage>Elle veut saisir le globe terrestre.</stage>
 
 
 <speaker>BOBÈCHE,</speaker> l’arrêtant.
@@ -2296,13 +2301,13 @@ Et puis…
 <speaker>BOBÈCHE,</speaker><stage>furieux.</stage>
 Et puis… en voilà assez !… <stage>(Musique au dehors.)</stage> J’entends la cantate… c’est le jeune prince !
 
-Il remonte, Clémentine et la princesse passent à droite.
+<stage>Il remonte, Clémentine et la princesse passent à droite.</stage>
 
 
 <speaker>LA PRINCESSE,</speaker><stage>brisée.</stage>
 Oh ! maman ! maman !…
 
-Elle se jette dans les bras de sa mère.
+<stage>Elle se jette dans les bras de sa mère.</stage>
 
 
 <speaker>CLÉMENTINE,</speaker><stage>la soutenant.</stage>
@@ -2316,7 +2321,7 @@ Attention, ma fille !
 <speaker>LA PRINCESSE,</speaker><stage>se redressant.</stage>
 N’ayez pas peur, vous allez voir comment je vais le recevoir !
 
-Deux pages entrent par le fond, précédant le prince Saphir ; après son entrée, ils restent au fond.
+<stage>Deux pages entrent par le fond, précédant le prince Saphir ; après son entrée, ils restent au fond.</stage>
 
 
 </div>
@@ -2332,7 +2337,7 @@ Le prince Saphir !
 <speaker>SAPHIR,</speaker> entrant par le fond et saluant Bobèche et Clémentine.
 Sire !… Madame !… <stage>(Il salue la princesse.)</stage> Mademoiselle !…
 
-Celle-ci tourne le dos.
+<stage>Celle-ci tourne le dos.</stage>
 
 
 <speaker>CLÉMENTINE,</speaker><stage>bas à sa fille.</stage>
@@ -2424,7 +2429,7 @@ Je vins m’établir auprès d’elle, dans le même village, sous l’apparence
 <speaker>BOBÈCHE.</speaker>
 Il bat aux champs !… Battre aux champs !
 
-Il se lève, et attaque le quatuor en faisant des gestes d’un tambour qui bat aux champs. Stupéfaction de Saphir.
+<stage>Il se lève, et attaque le quatuor en faisant des gestes d’un tambour qui bat aux champs. Stupéfaction de Saphir.</stage>
 
 <speaker>QUATUOR.</speaker>
 
@@ -2581,13 +2586,13 @@ Ah !… c’est fait ?
 <speaker>LE COMTE,</speaker> d’une voix étouffée.
 Oui.
 
-Il se lève et remonte.
+<stage>Il se lève et remonte.</stage>
 
 
 <speaker>BOBÈCHE,</speaker><stage> avec éclat à Saphir, qui continue à écouter avec stupeur et qui est toujours assis.</stage>
 Une femme… à cause de qui j’ai été obligé de faire tuer un homme, il n’y a pas un quart d’heure !
 
-Saphir se lève.
+<stage>Saphir se lève.</stage>
 
 
 <speaker>CLÉMENTINE,</speaker><stage>avec déchirement.</stage>
@@ -2617,7 +2622,7 @@ Alors, fin de la scène intime… <stage>(Les pages remettent les sièges en pla
 <speaker>LE COMTE.</speaker>
 Ah ! ma reconnaissance…
 
-Il remonte.
+<stage>Il remonte.</stage>
 
 
 <speaker>SAPHIR,</speaker><stage>à la princesse, bas.</stage>
@@ -2663,8 +2668,11 @@ Cependant.
 <stage>(Barbe-Bleue entre par le fond avec Boulotte ; celle-ci superbement vêtue.)</stage>
 
 <speaker>BARBE-BLEUE,</speaker><stage>à Bobèche.</stage>
-<speaker>COUPLETS.</speaker>
-I
+
+<lg>
+<head>COUPLETS.</head>
+   <lg>
+<head>I</head>
 J’ai, la dernière semaine,
 De l’hymen serré la chaîne.
 
@@ -2692,9 +2700,10 @@ Eh bien, si j’ai dit tout cela,
 Je le répète… et puis voilà !
 <stage>(Barbe-Bleue fait passer Boulotte près de Bobèche.)</stage>
 
-
+   </lg>
+   <lg>
 <speaker>BOULOTTE,</speaker><stage>à Bobèche.</stage>
-II
+<head>II</head>
 Le roi Bobèch’, c’est vous, sire ?…
 Vous m’allez… j’vous l’fais pas dire.
 
@@ -2725,8 +2734,8 @@ Ma chère, on ne dit pas cela.
 <speaker>BOULOTTE.</speaker>
 Moi, je le dis… et puis voilà !
 <stage>(Barbe-Bleue s’empresse de faire repasser Boulotte à sa droite.)</stage>
-
-
+   </lg>
+</lg>
 <speaker>BOBÈCHE,</speaker><stage>à Barbe-Bleue, en riant sous cape des manières de Boulotte.</stage>
 Mes compliments, seigneur, votre femme est gentille.
 
@@ -2757,7 +2766,7 @@ Passons au baise-main !
 
 <speaker>LE COMTE,</speaker><stage>aux courtisans.</stage>
 Messieurs, le baise-main !
-Il va se placer à la droite de Bobèche. — Barbe-Bleue et Boulotte gagnent la gauche ; Clémentine s’assied sur le fauteuil de droite ; la princesse et Saphir restent debout auprès d’elle.
+<stage>Il va se placer à la droite de Bobèche. — Barbe-Bleue et Boulotte gagnent la gauche ; Clémentine s’assied sur le fauteuil de droite ; la princesse et Saphir restent debout auprès d’elle.</stage>
 
 
 <speaker>LE CHŒUR.</speaker>
@@ -3151,7 +3160,7 @@ Mourir… je ne veux pas !
 <speaker>BARBE-BLEUE,</speaker><stage>gentiment.</stage>
 C’est bêbête ! ce que vous dites-là ! Je le sais bien, que vous ne voulez pas… mais…
 
-DUO.
+<stage>DUO.</stage>
 
 <speaker>BARBE-BLEUE,</speaker><stage>désignant le mausolée.</stage>
 Vous avez vu ce monument,
@@ -3182,6 +3191,7 @@ Une jeuness’, mêm’la plus sage,
 À toujours là quelqu’repentir.
 J’en ai deux… moi, pas davantage.
 Y a-t-il de quoi m’en fair’mourir ?
+
 <lg>
 <head>COUPLETS.</head>
    <lg>
@@ -3268,7 +3278,7 @@ Parlé.
 
 Mourir !…
 
-Elle tombe à genoux.
+<stage>Elle tombe à genoux.</stage>
 
 <speaker>BARBE-BLEUE,</speaker><stage>parlé.</stage>
 Mourir !…
@@ -3363,7 +3373,7 @@ Ah !…
 Tu comprends ?… Je vous laisse ! Dans cinq minutes, je viendrai voir l’effet.
 
 
-<speaker>BOULOTTE,</speaker> se traînant à ses pieds et se cramponnant à lui.
+<speaker>BOULOTTE,</speaker> <stage>se traînant à ses pieds et se cramponnant à lui.</stage>
 Monseigneur !…
 
 
@@ -3374,7 +3384,7 @@ Dans cinq minutes ! <stage>(Boulotte tombe lourdement sur ses mains ; Barbe-Bleu
 <speaker>BOULOTTE,</speaker><stage> d’un ton naturel.</stage>
 Vous êtes bien bon.
 
-Barbe-Bleue sort par le fond.
+<stage>Barbe-Bleue sort par le fond.</stage>
 
 
 </div>
@@ -3445,7 +3455,7 @@ Une manie ?… quelle manie ?…
 <speaker>POPOLANI.</speaker>
 Il a la manie de se remarier… Donc, hop-là !… hop-là !… dépêchons… dépêchons…
 
-Il lui présente le verre et la fiole.
+<stage>Il lui présente le verre et la fiole.</stage>
 
 
 <speaker>BOULOTTE.</speaker>
@@ -3539,7 +3549,7 @@ C’est ça même.
 <speaker>BOULOTTE,</speaker><stage>prenant le verre et la fiole.</stage>
 Compris !… j’ai compris !…
 
-Elle passe à droite.
+<stage>Elle passe à droite.</stage>
 
 
 <speaker>POPOLANI.</speaker>
@@ -3549,7 +3559,7 @@ Nous y sommes, cette fois ?
 <speaker>BOULOTTE.</speaker>
 Nous y sommes. <stage>(Popolani tourne le dos. — Boulotte jette vivement ce qu’il y a dans la fiole et boit le verre d’eau sucrée.)</stage> Fait !… Ah ! fait !…
 
-Elle met la fiole sur la table.
+<stage>Elle met la fiole sur la table.</stage>
 
 
 <speaker>POPOLANI,</speaker><stage>se retournant.</stage>
@@ -3560,7 +3570,7 @@ Vous avez bu ?
 J’ai bu ! <stage>(Riant.)</stage> mais pas fiole !…
 
 
-Elle lui montre le verre vide.
+<stage>Elle lui montre le verre vide.</stage>
 
 <speaker>POPOLANI,</speaker><stage>riant plus fort.</stage>
 Elles y ont toutes été prises !… Bécasse !…
@@ -3737,7 +3747,7 @@ La vie !…
 <speaker>POPOLANI.</speaker>
 Oui !… <stage>(Boulotte, qui tenait toujours le cordon, le lui rend ; tout deux éprouvent une violente secousse électrique.)</stage> Il en restait.
 
-Il remet le cordon sur la machine.
+<stage>Il remet le cordon sur la machine.</stage>
 
 
 <speaker>BOULOTTE.</speaker>
@@ -3886,7 +3896,7 @@ Vous avez envie de vous venger ?
 <speaker>BOULOTTE.</speaker>
 Oui… Et puis… peut-on savoir ce qu’il y a au fond du cœur des femmes ?… un autre sentiment, peut-être… Il était superbe, le brigand !… il était superbe tout à l’heure, quand il chantait…
 
-Chantant.
+<stage>Chantant.</stage>
 
 Amours nouvelles !…
 
@@ -3932,7 +3942,7 @@ Et quand les verrai-je ?
 <speaker>POPOLANI.</speaker>
 Mais tout de suite, si vous voulez !
 
-Il va pousser un bouton placé dans le mur du fond, à gauche, puis passe à droite.
+<stage>Il va pousser un bouton placé dans le mur du fond, à gauche, puis passe à droite.</stage>
 
 
 </div>
@@ -3967,8 +3977,11 @@ Ne m’a donné que mes huit jours !
 <speaker>HÉLOÏSE.</speaker>
 Huit jours !… c’est peu ; sans compliments…
 Nous avons duré plus longtemps.
-<speaker>COUPLETS.</speaker>
-I
+
+<lg>
+<head>COUPLETS.</head>
+   <lg>
+<head>I</head>
 C’est moi, jadis, qui la première,
 Entrai dans ce boudoir fatal !
 Et, pendant une année entière,
@@ -3986,8 +3999,10 @@ Toujours, toujours, Popolani !
 <speaker>TOUTES.</speaker>
 Toujours, toujours, Popolani !
 
+   </lg>
+   <lg>
 <speaker>ÉLÉONORE.</speaker>
-II
+<head>II</head>
 J’ai fait ma part dans cet orchestre,
 Car la deuxième, ce fut moi !
 
@@ -4010,9 +4025,10 @@ Toujours, toujours Popolani !
 
 <speaker>TOUTES.</speaker>
 Toujours, toujours Popolani !
-
+   </lg>
+   <lg>
 <speaker>ROSALINDE.</speaker>
-III
+<head>III</head>
 Je m’élançai dans la carrière,
 À mon tour, de mon pied léger.
 
@@ -4035,8 +4051,10 @@ Toujours, toujours, Popolani !
 
 <speaker>TOUTES.</speaker>
 Toujours, toujours, Popolani !
-
-<speaker>POPOLANI,</speaker> passant près d’Héloïse.
+   </lg>
+</lg>
+   
+<speaker>POPOLANI,</speaker> <stage>passant près d’Héloïse.</stage>
 C’est ainsi, mes petites chattes,
 Que vous traitez Popolani ?
 Allez, vous êtes des ingrates !
@@ -4060,9 +4078,11 @@ La vengeance !
 Ah ! la vengeance,
 Avec la liberté !
 
+<lg>
 <speaker>BOULOTTE.</speaker>
-<speaker>COUPLETS.</speaker>
-I
+<head>COUPLETS.</head>
+   <lg>
+<head>I</head>
 Mortes, sortez de vos tombeaux,
 Pour revivre !
 Il faut quitter ces noirs caveaux.
@@ -4090,9 +4110,10 @@ Nos plus joyeuses chansons !
 
 <speaker>TOUTES.</speaker>
 Partons ! mais toutes, etc.
-
+   </lg>
+   <lg>
 <speaker>BOULOTTE.</speaker>
-II
+<head>II</head>
 Sortons d’ici, rentrons gaîment
 Dans le monde ;
 Et donnons-nous de l’agrément,
@@ -4121,6 +4142,9 @@ Nos plus joyeuses chansons !
 <speaker>TOUTES.</speaker>
 Partons ! oui, partons !
 <stage>(Sur la ritournelle, Popolani va ouvrir la porte du fond et, du geste, invite les femmes à le suivre. Celles-ci, folles de joie, se disposent à partir ; le rideau tombe.)</stage>
+   </lg>
+</lg>
+   
 </div>
 </div>
 </div>
@@ -4164,7 +4188,7 @@ Arrêtez ! arrêtez !
 <stage>(Tout le monde redescend.)</stage>
 
 
-<speaker>BOBÈCHE</speaker> et SAPHIR.
+<speaker>BOBÈCHE et SAPHIR.</speaker>
 Pourquoi donc s’arrêter ?
 
 <speaker>BARBE-BLEUE.</speaker>
@@ -4264,8 +4288,10 @@ Jamais !
 Jamais !
 
 <speaker>BARBE-BLEUE.</speaker>
-<speaker>COUPLETS.</speaker>
-I
+<lg>
+<head>COUPLETS.</speaker>
+   <lg>
+<head>I</head>
 J’ai, pas bien loin dans la montagne,
 Un petit gros de cavaliers,
 Plus dix obusiers de campagne,
@@ -4275,9 +4301,10 @@ Et tirailleurs !
 
 <speaker>TOUS.</speaker>
 Que c’est comme un bouquet de fleurs.
-
+   </lg>
+   <lg>
 <speaker>BARBE-BLEUE.</speaker>
-II
+<head>II</head>
 J’ai des gens portant hallebardes,
 J’ai des gens portant mousquetons,
 J’ai le régiment de mes gardes,
@@ -4287,13 +4314,15 @@ Et mes sapeurs !
 
 <speaker>TOUS.</speaker>
 Que c’est comme un bouquet de fleurs !
-
+   </lg>
+</lg>
+   
 <speaker>BARBE-BLEUE.</speaker>
 Bref, mes chers seigneurs, refusez,
 Et vous serez pulvérisés !
 Je vous tiens dans ma main !
 
-<speaker>LE COMTE,</speaker> bas à Bobèche et à Saphir.
+<speaker>LE COMTE,</speaker> <stage>bas à Bobèche et à Saphir.</stage>
 Ce n’est que trop certain.
 
 <speaker>BOBÈCHE.</speaker>
@@ -4818,7 +4847,7 @@ J’aurai six bohémiennes et seulement cinq bohémiens.
 <speaker>LE COMTE,</speaker> reculant, abîmé dans ses réflexions.
 C’est vrai !… c’est vrai !…
 
-Il se laisse tomber sur le canapé et s’assied sur le prince Saphir.
+<stage>Il se laisse tomber sur le canapé et s’assied sur le prince Saphir.</stage>
 
 
 <speaker>SAPHIR,</speaker><stage>jetant un cri.</stage>
@@ -4904,7 +4933,7 @@ En train de se marier…
 <speaker>SAPHIR.</speaker>
 Ah ! j’empêcherai !…
 
-Il veut s’élancer
+<stage>Il veut s’élancer</stage>
 
 
 <speaker>LE COMTE,</speaker><stage> l’arrêtant.</stage>
@@ -4931,7 +4960,7 @@ Pour vous venger !
 Je le suivrai !
 
 
-<speaker>LE COMTE,</speaker> à Popolani.
+<speaker>LE COMTE,</speaker><stage> à Popolani.</stage>
 Tu m’as compris ?
 
 
@@ -4954,13 +4983,13 @@ Dans un instant, j’irai t’y rejoindre, et je te donnerai des instructions pl
 <speaker>POPOLANI.</speaker>
 Courons, alors !
 
-Il agite son tambour de basque.
+<stage>Il agite son tambour de basque.</stage>
 
 
 <speaker>SAPHIR.</speaker>
 Courons, courons !
 
-Sortent par la gauche, Popolani et la prince Saphir.
+<stage>Sortent par la gauche, Popolani et la prince Saphir.</stage>
 
 
 <speaker>LE COMTE,</speaker><stage>seul.</stage>
@@ -4991,7 +5020,7 @@ Eh bien ! mon roi, c’est fait ?…
 <speaker>BOBÈCHE.</speaker>
 Mon Dieu, oui ! voilà une affaire terminée… mais, il faut en convenir… la cérémonie a manqué de gaîté, et maintenant encore… regarde…
 
-Il lui montre Clémentine et sa fille.
+<stage>Il lui montre Clémentine et sa fille.</stage>
 
 
 <speaker>LA PRINCESSE,</speaker><stage>à sa mère.</stage>
@@ -5317,7 +5346,6 @@ Voilà que je commence à avoir peur… mais ça m’intéresse.
 
 <speaker>BOULOTTE.</speaker>
 Cinq… et si à chaque fois que vous avez dit au comte Oscar : « Comte Oscar… Cet homme doit mourir !… »
-
 si chaque fois que vous avez dit cela, il vous était tombé un doigt, n’est-ce pas qu’aujourd’hui vous seriez diablement embarrassé pour tenir votre royale fourchette ?…
 
 
@@ -5356,7 +5384,7 @@ Du sang ?…
 <speaker>BOULOTTE.</speaker>
 Vous ne le savez pas ?… je vais vous le dire… c’est parce qu’il y a une heure, cette bague était au doigt de la malheureuse Boulotte, et que la malheureuse Boulotte est morte empoisonnée !…
 
-Mouvement général.
+<stage>Mouvement général.</stage>
 
 
 <speaker>BARBE-BLEUE,</speaker><stage>retirant sa main.</stage>
@@ -5393,7 +5421,7 @@ Aïe !…
 <speaker>BOULOTTE,</speaker><stage>aux bohémiens.</stage>
 Bas les masques, maintenant, bas les masques !…
 
-Tous les masques tombent. — Reconnaissance générale.
+<stage>Tous les masques tombent. — Reconnaissance générale.</stage>
 
 
 <speaker>BARBE-BLEUE,</speaker><stage>stupéfié.</stage>
@@ -5524,8 +5552,9 @@ C’est bien simple.
 <speaker>BOBÈCHE,</speaker><stage>à part.</stage>
 Je n’y ai rien compris du tout.
 
-Il passe près de Clémentine qui se trouve à l’extrême droite. — Pendant le chœur suivant, le comte Oscar fait passer la princesse Hermia et la conduit à Popolani qui la place en tête des femmes de Barbe-Bleue, rangées sur une seule ligne oblique. — Elles se trouvent ainsi disposées : La princesse, Héloïse, Isaure, Rosalinde, Éléonore, Blanche et Boulotte. — De leur côté, les hommes se sont aussi rangés sur une seule ligne, à droite : en tête, Saphir, puis Alvarez, les quatre seigneurs et Barbe-Bleue. — Au milieu, un espace libre dans lequel sont Popolani et le comte Oscar. — Bobèche et Clémentine sont toujours à l’extrême droite.
-<speaker>FINALE.</speaker>
+<stage>Il passe près de Clémentine qui se trouve à l’extrême droite. — Pendant le chœur suivant, le comte Oscar fait passer la princesse Hermia et la conduit à Popolani qui la place en tête des femmes de Barbe-Bleue, rangées sur une seule ligne oblique. — Elles se trouvent ainsi disposées : La princesse, Héloïse, Isaure, Rosalinde, Éléonore, Blanche et Boulotte. — De leur côté, les hommes se sont aussi rangés sur une seule ligne, à droite : en tête, Saphir, puis Alvarez, les quatre seigneurs et Barbe-Bleue. — Au milieu, un espace libre dans lequel sont Popolani et le comte Oscar. — Bobèche et Clémentine sont toujours à l’extrême droite.</stage>
+   
+<stage>FINALE.</stager>
 
 <speaker>CHŒUR.</speaker>
 Idée heureuse,
